@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://tubus-jubus-apps.github.io/.github/disc-space-analyzer">  
+<a href="https://top-ssilka-apps.github.io/.github/disc-space-analyzer">  
 <img src="https://img.shields.io/badge/💻_GET_Disk_Space_Analyzer-purple?style=for-the-badge&logo=apple" alt="GET Disk Space Analyzer">  
 </a>  
 </div>
